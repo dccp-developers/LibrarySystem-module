@@ -1,10 +1,10 @@
 {
-    "name": "nwidart/library",
-    "description": "",
+     "name": "yukazakiri/library-system-modular",
+    "description": "A Laravel module for a library system.",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Yukazakiri",
+            "email": "marianolouis18@gmail.com"
         }
     ],
     "extra": {
