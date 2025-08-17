@@ -1,6 +1,7 @@
 {
      "name": "yukazakiri/library-system-modular",
     "description": "A Laravel module for a library system.",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Yukazakiri",
