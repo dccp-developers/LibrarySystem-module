@@ -1,5 +1,5 @@
 {
-     "name": "yukazakiri/library-system-modular",
+     "name": "yukazakiri/librarysystem-module",
     "description": "A Laravel module for a library system.",
     "type": "laravel-module",
     "license": "MIT",
